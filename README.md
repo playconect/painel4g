@@ -5,7 +5,7 @@
 * 💻 Requisitos Minimos
 
 ```
-S.O: Ubuntu 18
+S.O: Ubuntu 14
 RAM: 512
 Nucleos: 1
 Armazenamento: 20GB
